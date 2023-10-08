@@ -17,6 +17,7 @@ public class DongHoDemNguoc extends JFrame {
     int phut;
 	int giay;
     Timer time;
+    int hoan;
 	private static final long serialVersionUID = 1L;
 	private JPanel contentPane;
 	private JTextField txt_Phut;
